@@ -6,7 +6,7 @@
 	"require": {
 		"laravel/framework": "4.1.*",
 		"tecnick.com/tcpdf": "dev-master",
-		"dinesh/barcode": "dev-master"
+		"kelixlabs/kelix-barcode": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
